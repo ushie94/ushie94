@@ -1,11 +1,3 @@
-### Aspiring SOC Analyst | Security Automation (Python/Bash) | Network Defense: Wireshark & Tshark | SQL • PowerShell • Linux | Google Certified | CompTIA Security+ Candidate
-
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-ushie/)  [![TryHackMe](https://img.shields.io/badge/TryHackMe-CC1F41?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/victorushie94)
-
-Experienced Operations Lead transitioning into Cybersecurity. I specialize in monitoring high-volume banking transactions for anomalies and building automated security defenses using Python and Bash.
-
----
-
 ## 🛠️ My Technical Stack
 - **Security Operations:** SIEM (Wazuh), Packet Analysis (Wireshark, Tshark, Tcpdump)
 - **Languages/Scripting:** Python (Security Automation), Bash, PowerShell, SQL
