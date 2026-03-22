@@ -1,7 +1,20 @@
-# Hi, I'm Victor Ushie 👋 
+<!--# Hi, I'm Victor Ushie 👋 
 ### Aspiring SOC Analyst | Security Automation (Python/Bash) | Network Defense: Wireshark & Tshark | SQL • PowerShell • Linux | Google Certified | CompTIA Security+ Candidate
 
+Experienced Operations Lead transitioning into Cybersecurity. I specialize in monitoring high-volume banking transactions for anomalies and building automated security defenses using Python and Bash. -->
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ushie94/ushie94/main/aqq.png" alt="Victor Ushie" width="200" height="200" style="border-radius: 50%; border: 2px solid #30363d; display: block; margin-bottom: 10px;">
+  
+  # Hi, I'm Victor Ushie 👋
+  ### Aspiring SOC Analyst | Security Automation (Python/Bash) | Network Defense: Wireshark & Tshark | SQL • PowerShell • Linux | Google Certified | CompTIA Security+ Candidate
+
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-ushie/)  [![TryHackMe](https://img.shields.io/badge/TryHackMe-CC1F41?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/victorushie94)
+</div>
+
 Experienced Operations Lead transitioning into Cybersecurity. I specialize in monitoring high-volume banking transactions for anomalies and building automated security defenses using Python and Bash.
+
+---
 
 ---
 
