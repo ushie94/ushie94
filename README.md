@@ -1,18 +1,6 @@
 # Security Operations Portfolio
 > "In security, the difference between a breach and a breakthrough... **it all starts with a click.**"
 
-### 🛠️ Featured Lab: Watchtower V2
-- **Environment:** VirtualBox (NAT + Host-Only Networking)
-- **OS:** Ubuntu Server (SOC-MON-01), Windows 10 Targets
-- **Skills:** Network Isolation, ICMP Firewall Configuration, OpenSSH Management
-## 🛠️ My Technical Stack
-- **Security Operations:** SIEM (Wazuh), Packet Analysis (Wireshark, Tshark, Tcpdump)
-- **Languages/Scripting:** Python (Security Automation), Bash, PowerShell, SQL
-- **Systems & Infrastructure:** Linux (Ubuntu), VirtualBox, Git, Windows Server
-- **Frameworks:** NIST, NDPR Compliance, Identity & Access Management (IAM)
-
----
-
 ## 🔬 Featured Cybersecurity Projects
 
 ### [01. Home Security Lab & SIEM Configuration](LINK_TO_REPO)
@@ -33,6 +21,15 @@ Developed custom scripts to automate repetitive security tasks.
 - Automated file integrity checks to monitor changes in critical system directories.
 - **Skills:** Python, Scripting, Automation.
 
+### [04. Watchtower V2](LINK_TO_REPO)
+- **Environment:** VirtualBox (NAT + Host-Only Networking)
+- **OS:** Ubuntu Server (SOC-MON-01), Windows 10 Targets
+- **Skills:** Network Isolation, ICMP Firewall Configuration, OpenSSH Management
+## 🛠️ My Technical Stack
+- **Security Operations:** SIEM (Wazuh), Packet Analysis (Wireshark, Tshark, Tcpdump)
+- **Languages/Scripting:** Python (Security Automation), Bash, PowerShell, SQL, HTML5, CSS, R, Bootsrap, Wordpress
+- **Systems & Infrastructure:** Linux (Ubuntu), VirtualBox, Git, Windows Server
+- **Frameworks:** NIST, NDPR Compliance, Identity & Access Management (IAM)
 ---
 
 ## 🎓 Certifications & Education
