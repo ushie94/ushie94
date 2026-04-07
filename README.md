@@ -1,3 +1,10 @@
+# Security Operations Portfolio
+> "In security, the difference between a breach and a breakthrough... **it all starts with a click.**"
+
+### 🛠️ Featured Lab: Watchtower V2
+- **Environment:** VirtualBox (NAT + Host-Only Networking)
+- **OS:** Ubuntu Server (SOC-MON-01), Windows 10 Targets
+- **Skills:** Network Isolation, ICMP Firewall Configuration, OpenSSH Management
 ## 🛠️ My Technical Stack
 - **Security Operations:** SIEM (Wazuh), Packet Analysis (Wireshark, Tshark, Tcpdump)
 - **Languages/Scripting:** Python (Security Automation), Bash, PowerShell, SQL
