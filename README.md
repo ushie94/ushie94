@@ -15,7 +15,7 @@ Conducted deep-packet inspection to identify indicators of compromise (IoCs).
 - Documented the process of identifying brute-force attacks and abnormal DNS queries.
 - **Skills:** Network Security, Packet Analysis, Incident Triage.
 
-  ### 03. Advanced Network Traffic Analysis & High-Performance Streaming
+### 03. Advanced Network Traffic Analysis & High-Performance Streaming
 Conducted deep-packet inspection and engineered live data-stream parsing models to uncover malicious activity.
 * Developed `network_threat_hunter.py` to stream large-scale, compressed Netflow (`.bz2`) datasets, parsing positional comma-separated values to automatically isolate unencrypted web traffic protocols (Port 80).
 * Utilized Tshark and Tcpdump in a CLI environment to capture live traffic, documenting indicators of compromise (IoCs) like brute-force signatures and abnormal DNS queries.
